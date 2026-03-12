@@ -60,4 +60,4 @@ cmake --build .
 
 ## Видео геймплея
 
-<video controls preload="metadata" height="400"> <source src="media/game_video.mp4" type="video/mp4">
+https://raw.githubusercontent.com/dartshock/minesweeper/main/media/game_video.mp4
