@@ -8,13 +8,13 @@ qt_standard_project_setup()
 
 qt_add_executable(minesweeper
     WIN32 MACOSX_BUNDLE
-    main.cpp
-    view.cpp
-    view.h
-    view.ui
-    controller.h controller.cpp
-    model.h model.cpp
-    custom_button.h custom_button.cpp
+    src/main.cpp
+    src/view.cpp
+    src/view.h
+    src/view.ui
+    src/controller.h src/controller.cpp
+    src/model.h src/model.cpp
+    src/custom_button.h src/custom_button.cpp
 )
 
 target_link_libraries(minesweeper
