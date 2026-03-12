@@ -59,5 +59,5 @@ cmake --build .
 ```
 
 ## Видео геймплея
-
+![Gameplay](/media/game_video.mp4)
 https://raw.githubusercontent.com/dartshock/minesweeper/main/media/game_video.mp4
