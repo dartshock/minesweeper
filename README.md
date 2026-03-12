@@ -60,4 +60,4 @@ cmake --build .
 
 ## Видео геймплея
 
-<video controls preload="metadata" height="400"> <source src="media\game_video.mp4" type="video/mp4">
+<video controls preload="metadata" height="400"> <source src="media/game_video.mp4" type="video/mp4">
